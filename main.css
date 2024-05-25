@@ -77,7 +77,7 @@ table td img {
 }
 
 .resultado {
-    background-color: #000;
+    background-color: red;
     color: #fff;
     padding: 8px;
     font-weight: bold;
@@ -86,9 +86,5 @@ table td img {
 
 .aprovado {
     background-color: #009432;
-}
-
-.reprovado {
-    background-color: red;
 }
 
